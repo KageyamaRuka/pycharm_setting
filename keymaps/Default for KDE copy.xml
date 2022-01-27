@@ -1,0 +1,17 @@
+<keymap version="1" name="Default for KDE copy" parent="Default for KDE">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="Console.History.Browse" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl alt released r" />
+  </action>
+</keymap>
