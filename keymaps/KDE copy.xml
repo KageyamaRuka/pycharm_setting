@@ -1,0 +1,11 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="Git.Commit.Stage" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>

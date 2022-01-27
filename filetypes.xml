@@ -5,7 +5,7 @@
       <mapping pattern="fin" type="AUTO_DETECTED" />
       <mapping pattern="exception" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
+      <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
     </extensionMap>
   </component>
 </application>
