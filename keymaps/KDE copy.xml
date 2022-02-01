@@ -1,0 +1,9 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="SmartSelect" />
+  <action id="UsageFiltering.WriteAccess" />
+</keymap>
