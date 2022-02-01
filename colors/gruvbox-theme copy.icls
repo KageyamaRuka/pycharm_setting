@@ -1,21 +1,20 @@
 <scheme name="gruvbox-theme copy" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="0.75" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-02-10T16:24:35</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2022-01-27T20:56:48</property>
+    <property name="modified">2021-10-29T13:44:14</property>
     <property name="originalScheme">gruvbox-theme copy</property>
   </metaInfo>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Sarasa Term SC" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Sarasa Mono SC" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </console-font>
-  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
