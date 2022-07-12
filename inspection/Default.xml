@@ -14,7 +14,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="53">
+        <list size="54">
           <item index="0" class="java.lang.String" itemvalue="locust" />
           <item index="1" class="java.lang.String" itemvalue="pywin32" />
           <item index="2" class="java.lang.String" itemvalue="greenlet" />
@@ -68,6 +68,7 @@
           <item index="50" class="java.lang.String" itemvalue="distlib" />
           <item index="51" class="java.lang.String" itemvalue="pycryptodome" />
           <item index="52" class="java.lang.String" itemvalue="async-generator" />
+          <item index="53" class="java.lang.String" itemvalue="opencv-python" />
         </list>
       </value>
     </option>
