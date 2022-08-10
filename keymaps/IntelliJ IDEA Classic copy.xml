@@ -15,8 +15,8 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl alt u" />
+    <keyboard-shortcut first-keystroke="alt u" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
